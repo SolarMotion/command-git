@@ -1,7 +1,9 @@
 # git-command
 
 1. Delete local repo from .git version control (Windows run inside Bash) <br/>
+```
 rm -rf .git
+```
 
 
 2. Create a new repo <br/>

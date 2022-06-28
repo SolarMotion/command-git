@@ -78,7 +78,7 @@ git rm --cached file_name_x <br/>
 
 14. Sample 
 ```
-* feat: add claimUsername test helper
+* feature: add claimUsername test helper
 * test: ensure that username is at least 5 characters long
 * test: ensure that in-use username cannot be claimed
 * refactor: have registerNewTestUser use claimUsername

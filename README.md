@@ -19,12 +19,14 @@ git clone /path/to/repository
 
 
 4. Add <br/>
+```
 git add .
-
+```
 
 5. Commit to local <br/>
+```
 git commit -m "Commit message"
-
+```
 
 6. Push changes to remote <br/>
 ```
